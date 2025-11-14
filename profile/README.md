@@ -1,6 +1,6 @@
 # AhiGram ✨
 
-Modified Telegram for Android with focus on privacy and special features 🔥.
+Modified Telegram for Android and PC with focus on privacy and special features 🔥.
 
 ## 📥 Links
 - **News:** [@AhiGram](https://t.me/AhiGram)
